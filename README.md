@@ -2,7 +2,7 @@
 
 This repository contains content for an interactive training course to learn the basics of git and GitHub for collaborative coding. This training is an adaptation of a course [originally offered by the USGS Data Science Branch](https://github.com/DOI-USGS/ds-gitflows-static/).
 
-## I'm a learner
+## I'm a learner (Ahmed Omar)
 
 If you are someone taking this training, you are in the right place if your URL looks something like `www.github.com/[org]/learning-gitflows-[username]`, where `[org]` is an organization name (e.g. `CUAHSI` or `DOI-USGS`) and `[username]` is your username. Make note of this URL and the pattern described as it is referenced throughout the training materials.
 
